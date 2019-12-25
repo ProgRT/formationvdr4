@@ -1,7 +1,5 @@
 ---
 ---
-![](file:///home/nicolas/Projets/Publiés/LaTex/logovdr.sty/logofvc.svg)
-
 ## Documents de référence
 
 - [Notes de cours supplémentaires](https://progrt.github.io/suplement/suplement.pdf)
