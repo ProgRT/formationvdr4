@@ -2,6 +2,7 @@
 ---
 ## Documents de référence
 
+- [Notes de cours](documents/notes.pdf)
 - [Notes de cours supplémentaires](https://progrt.github.io/suplement/suplement.pdf)
 
 ## Diapositives
