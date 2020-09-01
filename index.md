@@ -2,8 +2,8 @@
 ---
 ## Documents de référence
 
-- [Notes de cours](documents/notes.pdf)
-- [Notes de cours supplémentaires](https://progrt.github.io/suplement/suplement.pdf)
+- [Ventilation diffusive
+	convective](https://progrt.github.io/manuel/manuel.pdf)
 
 ## Diapositives
 
@@ -19,3 +19,11 @@
 
 - [Vérification pré-utilisation](documents/4004886.pdf)
 - [Notes cliniques](documents/FUM-1111.pdf)
+
+<details>
+	<summary>Documents archivés</summary>
+	<ul>
+		<li><a href="documents/notes.pdf">Notes de cours</a></li>
+		<li><a href="https://progrt.github.io/suplement/suplement.pdf">Notes de cours</a></li>
+	</ul>
+</details>
